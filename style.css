@@ -275,6 +275,7 @@ header .navbar ul li a:hover{
 .info p{
     text-align: justify;
     text-transform: none;
+    width: 97%;
 }
 /*
 .skills h3{
