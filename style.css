@@ -272,6 +272,10 @@ header .navbar ul li a:hover{
     background: var(--yellow);
     color: var(--white);
 }
+.info p{
+    text-align: justify;
+    text-transform: none;
+}
 /*
 .skills h3{
     font-size: 3rem;
